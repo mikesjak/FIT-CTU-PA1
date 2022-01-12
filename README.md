@@ -1,4 +1,4 @@
-# FIT_CTU-PA1
+# FIT CTU - PA1
 
 ## Introduction
 
