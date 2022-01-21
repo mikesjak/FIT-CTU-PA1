@@ -1,0 +1,11 @@
+# What is this about?
+
+- In this directory, there will be multiple programming excersises that I have done before taking my final exam in PA1
+- It will be divided into multiple directories one excersise in one directory so I can add inputs and stuff like this
+
+## Content
+
+- Parking lot
+- Warehouse
+- Adding codes
+- Finding maximum
