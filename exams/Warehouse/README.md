@@ -24,8 +24,6 @@
 ? code
 ```
 - Prints current amount of goods
-#### What to check in input scanning
-
 
 ## Basic showcase
 ##### Input
@@ -59,14 +57,12 @@ Kusu: 5.
 
 - You will fint it in gen.c
 - Right now it will generate 99999 lines
-- Firstly you need to define the size of the lot
 
 ##### How to run it?
 
 ```md
 g++ -Wall -pedantic gen.c -o gen.out
 ./gen.out > in.txt
-example: 10 55
 g++ -Wall -pedantic code.c -fsanitize=address -g
 ./a.out < in.txt
 ```
