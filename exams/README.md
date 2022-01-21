@@ -5,7 +5,9 @@
 
 ## Content
 
-- Parking lot
+[- Parking lot][Parking]
 - Warehouse
 - Adding codes
-- Finding maximum
+- Finding maximum\
+
+[Parking]: https://github.com/mikesjak/FIT_CTU-PA1/tree/main/exams/Parking
