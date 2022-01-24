@@ -20,7 +20,7 @@ time > 1 day -> $1000 per started day
 #### What to check in input scanning
 - time is ascending
 - good input format
-- only 3 functions can be added
+- only 3 functions can be called
 
 ## Basic showcase
 ```md

@@ -114,7 +114,7 @@ int main ( void ) {
                 break;
             case '-':
                 scanf(" %11s", tmpSign);
-                if (strlen(tmpSign) >= 11){
+                if (strlen(tmpSign) >= 11 || count == 0){
                     printf("Nesprávný vstup.\n");
                     free(logs);
                     return 1;
