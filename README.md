@@ -15,16 +15,16 @@
 - Pray for Láďa
 
 ## Content
-[1. Quotes][hw00]
-[2. Area of 2 objects][hw01]
-[3. Number bases][hw02]
-[4. New Green Deal][hw03]
-[5. Unique IDs][hw04]
-[6. Best-selling goods][hw05]
-[7. Word comparing][hw06]
-[8. Cube towers][hw07]
-[9. List of employees][hw08]
-[10. Exams and preparation for exams][exams]
+1. [Quotes][hw00]
+2. [Area of 2 objects][hw01]
+3. [Number bases][hw02]
+4. [New Green Deal][hw03]
+5. [Unique IDs][hw04]
+6. [Best-selling goods][hw05]
+7. [Word comparing][hw06]
+8. [Cube towers][hw07]
+9. [List of employees][hw08]
+10. [Exams and preparation for exams][exams]
 
 [hw00]: https://github.com/mikesjak/FIT_CTU-PA1/tree/main/HW00
 [hw01]: https://github.com/mikesjak/FIT_CTU-PA1/tree/main/HW01
