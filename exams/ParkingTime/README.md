@@ -1,26 +1,26 @@
 # Parking prize
 
-## What to do?
-- Create a program that count parking prize
+## Zadání
+- Napiště program, který počítá cenu parkovného
 ```md
-Rules:
+Cenník:
 time <= 30 min -> $0
 time > 30 <= 60 min -> $30
-time > 60 min <= 1 day -> $40 per started hour
-time > 1 day -> $1000 per started day
+time > 60 min <= 1 den -> $40 za každou začatou hodinu
+time > 1 den -> $1000 za každý začatý den
 ```
 
-#### + function
-- saves car's licence plate and time hen it arrived
+#### + funkce
+- Uloží SPZ auta a čas příjezdu
 #### - function
-- counts total time and prize
+- Auto odjíždí -> spočte cenu
 #### = function
-- has to be 0:00
-- means new day has started
-#### What to check in input scanning
-- time is ascending
-- good input format
-- only 3 functions can be called
+- Musí být 0:00
+- Znamená začátek nového dne
+#### Ošetření vstupů
+- nejde se zpátky v čase
+- správný formát
+- pouze 3 funkce mohou být volány
 
 ## Basic showcase
 ```md

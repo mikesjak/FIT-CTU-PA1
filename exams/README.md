@@ -1,7 +1,7 @@
 # What is this about?
 
-- In this directory, there will be multiple programming excersises that I have done before taking my final exam in PA1
-- It will be divided into multiple directories one excersise in one directory so I can add inputs and stuff like this
+- Zde najdete všechny mé kódy, které jsem použil na přípravu ke zkoušce
+- Doporučuju naučit se Spojové seznamy, a nafukovací pole.
 
 ## Content
 

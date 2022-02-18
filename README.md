@@ -1,17 +1,15 @@
 # FIT CTU - PA1
 
 ## Introduction
-
-- This repository is full of my homeworks from Programming and algorithmic 1
-- Feel free to check my codes.
-- Please keep in mind that I was a complete begginer when I wrote it.
-- After a succesfull exam I got C with 77 / 100 points.
+- repozitář je plný Cčka a PA1
+- Najdete zde na Progtestová řešení, tak mojí přípravu na zkoušku
+- Prosím berte v potaz, že při vstupu na FIT jsem neuměl ani "Hello World"
+- Předmět jsem zvládl i s ústní zkouškou na 77/100.
 
 #### Disclaimer
-
-- These solutions are all to max points without bonus.
-- Only some solutions made it to bonuses.
-- Not all of the exams were the harder versions.
+- Všechna řešení prošla základnímy vstupy na 100 %
+- Část z nich i na bonusy
+- Ne všechny úlohy jsou ty těžší (za 5 bodů)
 - Pray for Láďa
 
 ## Content

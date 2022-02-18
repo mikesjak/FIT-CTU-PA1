@@ -1,29 +1,29 @@
 # Warehouse
 
-- code.c is slower version, naive
-- binarySearch.c is way faster, has binary search inplemented
+- code.c je naivní řešení
+- binarySearch.c používá binary search
 
-## What to do?
-- Create a program to manage a warehouse
-- You have to create 3 functiong +, -, ?
-- Code of the product cannot be longer that 100 chars
-- Amount of input is limited to 100000
+## Zadání
+- Napsat program, který řídí sklad
+- 3 funkce +, -, ?
+- Kód produktu nesmí být delší než 100 znaků
+- Počet vstupů je omezen na 100000
 
-#### + function
+#### + funkce
 ```md
-+ code amount
++ kod počet
 ```
-- Adds amount of goods
+- Přidá 'počet' zboží
 #### - function
 ```md
-- code amount
+- kod počet
 ```
-- Takes amount of goods
+- odebere 'počet' zboží
 #### ? function
 ```md
-? code
+? kod
 ```
-- Prints current amount of goods
+- Napíše aktuální množstí
 
 ## Basic showcase
 ##### Input
@@ -55,10 +55,10 @@ Kusu: 5.
 ```
 ### Input generator
 
-- You will fint it in gen.c
-- Right now it will generate 99999 lines
+- Soubor gen.c
+- Generuje 99999 řádek
 
-##### How to run it?
+##### Jak to spustit?
 
 ```md
 g++ -Wall -pedantic gen.c -o gen.out

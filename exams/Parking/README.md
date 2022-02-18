@@ -2,20 +2,20 @@
 
 ## What to do?
 
-- Create a program to manage a Parking lot
-- Firstly add to number to define size of the Parking lot
-- Then there will be two functions: + to add a car, - to take a car
-#### + function
-- In input first number is floor, second is place and string is a number plate
+- Napsat program, který řídí parkoviště
+- Dostane 2 čísla, která definují velikost parkoviště (počet pater, míst)
+- 2 funkce: + přijet, - odjet
+#### + funkce
+- Čísla reprezentují patro a místo, string je SPZ
 #### - function
-- The number plate must be already registered or it will say "Nenalezeno."
-- Otherwise it will just take the car away and free the spot.
+- Auto se zde musí nacházet, aby mohlo odjet. Jinak -> "Nenalezeno."
+- Pokud se zde auto nachází a uvolní se místo.
 
-#### What to check in input scanning
-- size of the lot must be defined by two numbers > 0
-- only + or - can be called
-- In the + function you will have to check if that place isnt taken or if any info isn't missing
-- In the - function you will have to check if the car is there or not.
+#### Ošetření vstupu
+- Místo musí být definováno 2 číslama a musí existovat
+- Volány mohou být pouze funkce + a -
+- V + funkci se musí zkontrolovat obsazenost místa a SPZ
+- V - funkci se musí zkontrolovat, zda dané auto je v parkovišti
 
 ## Basic showcase
 ```md
@@ -57,16 +57,16 @@ Nespravny vstup.
 
 ### Input generator
 
-- You will fint it in gen.c
-- Right now it will generate 500000 lines
-- Firstly you need to define the size of the lot
+- Soubor gen.c
+- Generuje 500000 řádek
+- Je nutno zadat velikost parkoviště
 
 ##### How to run it?
 
 ```md
 g++ -Wall -pedantic gen.c -o gen.out
 ./gen.out > in.txt
-example: 10 55
+10 55
 g++ -Wall -pedantic code.c -fsanitize=address -g
 ./a.out < in.txt
 ```

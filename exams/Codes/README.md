@@ -1,14 +1,13 @@
 # EAN codes
 
 
-## What to do?
-- Create a program that get unlimited amount of codes
-- After the input is finished, you have to print 10 codes with the biggest amount
+## Zadání
+- Napsat program, který načte neomezeně mnoho kódů
+- Po veškerém načtení, program vypíše 10 nejčastěji vyskytovaných kódů
 
-- Prints current amount of goods
-#### What to check in input scanning
+#### Ošetření vstupů
 
-- Code can has <5,100> chars
+- Kód může mít <5,100> znaků
 
 ## Basic showcase
 ##### Input
@@ -25,13 +24,13 @@
 23456 1x
 12366 1x
 ```
-### Input generator
+### Generátor vstupu
 
-- You will fint it in gen.c
-- Right now it will generate 100000 lines
-- It only creates good inputs with the lenght of 6 chars max
+- Soubor gen.c
+- Generuje 100000 řádek
+- Generuje pouze 5-6 místné kódy
 
-##### How to run it?
+##### Jak to spustit?
 
 ```md
 g++ -Wall -pedantic gen.c -o gen.out
