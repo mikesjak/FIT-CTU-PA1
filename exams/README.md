@@ -1,4 +1,4 @@
-# What is this about?
+# Příprava na zkoušku
 
 - Zde najdete všechny mé kódy, které jsem použil na přípravu ke zkoušce
 - Doporučuju naučit se Spojové seznamy, a nafukovací pole.

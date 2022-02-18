@@ -1,10 +1,11 @@
 # FIT CTU - PA1
 
 ## Introduction
-- repozitář je plný Cčka a PA1
+- Repozitář je plný Cčka a PA1
 - Najdete zde na Progtestová řešení, tak mojí přípravu na zkoušku
 - Prosím berte v potaz, že při vstupu na FIT jsem neuměl ani "Hello World"
 - Předmět jsem zvládl i s ústní zkouškou na 77/100.
+- U některý úloh je odkaz na FIT-WIKI, abyste mohli vidět celé zadání
 
 #### Disclaimer
 - Všechna řešení prošla základnímy vstupy na 100 %
