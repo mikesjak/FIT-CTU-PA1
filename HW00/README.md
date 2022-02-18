@@ -1,4 +1,4 @@
-#Citáty aka Klingonština
+# Citáty aka Klingonština
 
 [Odkaz na FIT-WIKI][wiki]
 
