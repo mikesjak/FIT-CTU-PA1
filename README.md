@@ -4,7 +4,6 @@
 - Repozitář je plný Cčka a PA1
 - Najdete zde na Progtestová řešení, tak mojí přípravu na zkoušku
 - Prosím berte v potaz, že při vstupu na FIT jsem neuměl ani "Hello World"
-- Předmět jsem zvládl i s ústní zkouškou na C 77/100.
 - U některý úloh je odkaz na FIT-WIKI, abyste mohli vidět celé zadání
 
 #### Disclaimer
